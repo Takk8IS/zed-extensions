@@ -498,6 +498,10 @@
 	path = extensions/exquisite
 	url = https://github.com/xqsit94/zed-xqsit-theme.git
 
+[submodule "extensions/ezio-theme"]
+	path = extensions/ezio-theme
+	url = https://github.com/dsantolo/ezio-zed.git
+
 [submodule "extensions/fiberplane-studio"]
 	path = extensions/fiberplane-studio
 	url = https://github.com/keturiosakys/zed-fp-studio.git
@@ -589,6 +593,10 @@
 [submodule "extensions/github-theme"]
 	path = extensions/github-theme
 	url = https://github.com/PyaeSoneAungRgn/github-zed-theme.git
+
+[submodule "extensions/gitlab-ci-ls"]
+	path = extensions/gitlab-ci-ls
+	url = https://github.com/tzabbi/zed-gitlab-ci-ls.git
 
 [submodule "extensions/glazier"]
 	path = extensions/glazier
@@ -713,6 +721,10 @@
 [submodule "extensions/hurl"]
 	path = extensions/hurl
 	url = https://github.com/tommy/zed-hurl
+
+[submodule "extensions/hyprlang"]
+	path = extensions/hyprlang
+	url = https://github.com/WhySoBad/zed-hyprlang-extension.git
 
 [submodule "extensions/ical"]
 	path = extensions/ical
@@ -1238,6 +1250,10 @@
 	path = extensions/penumbra
 	url = https://github.com/jbisits/penumbra-zed.git
 
+[submodule "extensions/perfect-dusk"]
+	path = extensions/perfect-dusk
+	url = https://github.com/Bikossor/Perfect-Dusk-Zed.git
+
 [submodule "extensions/perl"]
 	path = extensions/perl
 	url = https://github.com/tree-sitter-perl/zed-perl.git
@@ -1326,6 +1342,10 @@
 	path = extensions/python-refactoring
 	url = https://github.com/rowillia/zed-python-refactoring.git
 
+[submodule "extensions/python-requirements"]
+	path = extensions/python-requirements
+	url = https://github.com/dargor/zed-python-requirements.git
+
 [submodule "extensions/qml"]
 	path = extensions/qml
 	url = https://github.com/lkroll/zed-qml.git
@@ -1349,6 +1369,10 @@
 [submodule "extensions/racket"]
 	path = extensions/racket
 	url = https://github.com/zed-extensions/racket.git
+
+[submodule "extensions/railscast"]
+	path = extensions/railscast
+	url = https://github.com/pbsds/railscast-zed.git
 
 [submodule "extensions/rainbow-csv"]
 	path = extensions/rainbow-csv
@@ -1429,6 +1453,10 @@
 [submodule "extensions/scss"]
 	path = extensions/scss
 	url = https://github.com/bajrangCoder/zed-scss.git
+
+[submodule "extensions/sequoia"]
+	path = extensions/sequoia
+	url = https://github.com/HarshNarayanJha/zed-sequoia-theme
 
 [submodule "extensions/serendipity"]
 	path = extensions/serendipity
@@ -1542,6 +1570,10 @@
 	path = extensions/struct-theme
 	url = https://gitlab.com/Fake.User/struct-zed-theme.git
 
+[submodule "extensions/stylelint"]
+	path = extensions/stylelint
+	url = https://github.com/florian-sanders/zed-stylelint.git
+
 [submodule "extensions/sublime-mariana-theme"]
 	path = extensions/sublime-mariana-theme
 	url = https://github.com/hnatiukr/zed-mariana-theme.git
@@ -1593,6 +1625,10 @@
 [submodule "extensions/terrible-theme"]
 	path = extensions/terrible-theme
 	url = https://github.com/nooooaaaaah/terrible-zed.git
+
+[submodule "extensions/the-best-theme"]
+	path = extensions/the-best-theme
+	url = https://github.com/Nidal-Bakir/zed-the-best-theme.git
 
 [submodule "extensions/the-dark-side"]
 	path = extensions/the-dark-side
