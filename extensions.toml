@@ -230,7 +230,7 @@ version = "0.4.0"
 
 [blackrain-theme]
 submodule = "extensions/blackrain-theme"
-version = "0.1.1"
+version = "0.1.3"
 
 [blackula]
 submodule = "extensions/blackula"
@@ -1388,7 +1388,7 @@ version = "0.0.4"
 
 [mcp-server-byterover]
 submodule = "extensions/mcp-server-byterover"
-version = "0.0.1"
+version = "0.0.2"
 
 [mcp-server-container-use]
 submodule = "extensions/mcp-server-container-use"
@@ -1741,7 +1741,7 @@ version = "0.0.1"
 
 [nvim-nightfox]
 submodule = "extensions/nvim-nightfox"
-version = "0.5.2"
+version = "0.6.0"
 
 [nyxvamp-theme]
 submodule = "extensions/nyxvamp-theme"
@@ -2010,7 +2010,7 @@ version = "0.0.1"
 
 [puppet]
 submodule = "extensions/puppet"
-version = "0.0.1"
+version = "0.2.0"
 
 [purescript]
 submodule = "extensions/purescript"
@@ -2723,7 +2723,7 @@ version = "0.0.9"
 
 [vscode-great-icons]
 submodule = "extensions/vscode-great-icons"
-version = "0.2.3"
+version = "0.2.4"
 
 [vscode-icons]
 submodule = "extensions/vscode-icons"
@@ -2885,3 +2885,7 @@ version = "0.3.4"
 [ziggy]
 submodule = "extensions/ziggy"
 version = "0.0.1"
+
+[zwirn]
+submodule = "extensions/zwirn"
+version = "0.1.0"
